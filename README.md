@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+##Images of the Task-Managment-App
+![TaskManagment App](1.png)
+![After adding Tasks](2.png)
+![Completed and Sorted Tasks by filter/priotriry](3.png)
+
+
+
+
+
 ## Getting Started
 
 First, run the development server:
